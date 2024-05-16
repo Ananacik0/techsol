@@ -411,6 +411,30 @@ section .container .section__block .section__block-item img {
   cursor: pointer;
 }
 
+.submit_form {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px 45px;
+  color: #000;
+  font-size: 16px;
+  margin-top: 10px;
+  background-color: #fff;
+}
+
+.number_input {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px 0px 10px 30px;
+  margin-top: 10px;
+}
+
+.name_input {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px 0px 10px 30px;
+  margin-top: 10px;
+}
+
 @media (max-width: 870px) {
   .aside-application .container {
     padding-bottom: 20px;
